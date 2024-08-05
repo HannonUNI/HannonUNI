@@ -1,6 +1,9 @@
-# 💫 About Me:
+# 👈 About Me:
 🐍 I'm fluent in Arabic, Python, English, JavaScript and more!<br>
+💫 I've worked on many projects as the sole designer developer and devops, i can turn you're ideas intp reality with magic!<br>
 
+## 🌐 Superpowers:
+X-Ray vission, also i can fly<br>
 
 ## 🌐 Socials:
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15678119) 
